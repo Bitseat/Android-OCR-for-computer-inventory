@@ -4,11 +4,11 @@ in Excellerent Technology Solutions Ethiopia delivery center.
 
 The images to capture look like the image below.
 
-![Image](smaple-image.jpg)
+![Image](sample-image.jpg)
 
 What we need is to register the information displayed on the images into an excelsheet as follow
 
-![Record](excel.png)
+![Record](excel.PNG)
 
 ## Steps
 1. Character extraction
