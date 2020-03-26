@@ -10,7 +10,7 @@ What we need is to register the information displayed on the images into an exce
 
 ![Record](excel.png)
 
-##Steps
+## Steps
 1. Character extraction
 Extract characters one by one from the captured data. We can do this with Tesseract. 
 Tesseract is an optical character recognition engine for various operating systems. 
