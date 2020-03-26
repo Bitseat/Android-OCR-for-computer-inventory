@@ -10,14 +10,16 @@ What we need is to register the information displayed on the images into an exce
 
 ![Record](excel.PNG)
 
-## Steps
-1. Character extraction
-Extract characters one by one from the captured data. We can do this with Tesseract. 
+## Tools
+Android studio
+For the Android user interface development
+
+Tesseract
 Tesseract is an optical character recognition engine for various operating systems. 
 It is free software, released under the Apache License, Version 2+++.0. And Tesseract Tools for Android 
 is a set of Android APIs and build files for the Tesseract OCR and Leptonica image processing libraries.
+We extract characters one by one from the captured data with Tesseract.
 
-2.
-
-3. 
+Python
+For the preprocessing
 
